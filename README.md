@@ -50,6 +50,8 @@ Data per provinsi, tahun **2021**, terdiri dari 10 indikator:
 
 ## Hasil Pengelompokan
 
+![Peta Indonesia](images/bansos.jpg)
+
 Empat kelompok prioritas bansos untuk 34 provinsi:
 
 | Prioritas | Provinsi | Karakteristik utama | Rekomendasi program |
